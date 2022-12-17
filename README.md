@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rupali 
 - 👀 I’m interested in programming..i am quite new in this field 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning various technologies
 - 💞️ 
 - 📫
 
